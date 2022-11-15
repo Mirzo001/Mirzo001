@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * ✉️  You can contact me at [xmirzo001@gmail.com](mailto:xmirzo001@gmail.com)
-* 🚀  I'm currently working on [🦷Rohat Dent](http://rohat-dent.uz)
+* 🚀  I'm currently working on [🦷Rohat Dent](#)
 * 🧠  I'm learning API Gateways
 
 ### Skills
